@@ -1,19 +1,19 @@
 
-# 🔐 Secure Password Manager
+# Secure Password Manager
 
 A simple, elegant, and efficient password manager built with **Tkinter** and **ttkbootstrap**. Generate strong passwords, save credentials securely to a CSV file, and search for them with ease.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-📦 Project Folder
+ Project Folder
 ├── main.py               # Main application file
 ├── requirements.txt      # Required Python packages
 ├── LICENSE               # License file
 └── README.md             # Project overview and usage guide
 ```
 
-## 🚀 Features
+## Features
 
 - Strong password generator with custom length & character types
 - Save credentials (Platform, Email/Phone, Password) to CSV
@@ -21,7 +21,7 @@ A simple, elegant, and efficient password manager built with **Tkinter** and **t
 - Password visibility toggle & strength meter
 - Easy-to-use UI with `ttkbootstrap` themes
 
-## 🛠️ Requirements
+##  Requirements
 
 Install all dependencies using:
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - `tkinter` (standard with Python)
 - `os`, `random`
 
-## 🧪 How to Run
+## How to Run
 
 Make sure you have Python installed (>= 3.6). Then run:
 
@@ -44,11 +44,11 @@ Make sure you have Python installed (>= 3.6). Then run:
 python main.py
 ```
 
-## 💾 Data Handling
+## Data Handling
 
 Passwords are saved in a `Passwords.csv` file in the same directory. Ensure this file is handled securely.
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
